@@ -32,9 +32,7 @@ def recursion():
         main()
     elif recursion == "S":
         main()
-    
-    
-
+        
 def main():
     title(TITLE)
     limit = ask_limit()
